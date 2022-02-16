@@ -1,6 +1,8 @@
 # CET521-INDE546-Project
 CET/INDE546 Inferential Statistics. Github for group project studying EV immersion in Washington State.
+
 Proposal
+
 A statistical assessment of the external and internal factors that influence personal electric vehicle adoption in the Seattle area or Washington state
 
 A specific, testable, research question.
